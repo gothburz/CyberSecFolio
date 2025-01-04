@@ -1,3 +1,12 @@
 [submodule "exploits/cve/2022/CVE-2022-41924"]
 	path = exploits/cve/2022/CVE-2022-41924
 	url = https://github.com/oalieno/CVE-2022-41924
+[submodule "exploits/cve/2024/CVE-2024-49113/CVE-2024-49113"]
+	path = exploits/cve/2024/CVE-2024-49113/CVE-2024-49113
+	url = https://github.com/SafeBreach-Labs/CVE-2024-49113.git
+[submodule "exploits/cve/2024/--force"]
+	path = exploits/cve/2024/--force
+	url = https://github.com/SafeBreach-Labs/CVE-2024-49113.git
+[submodule "exploits/cve/CVE-2024-49113"]
+	path = exploits/cve/CVE-2024-49113
+	url = https://github.com/SafeBreach-Labs/CVE-2024-49113.git
