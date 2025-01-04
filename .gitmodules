@@ -1,0 +1,3 @@
+[submodule "exploits/cve/2022/CVE-2022-41924"]
+	path = exploits/cve/2022/CVE-2022-41924
+	url = https://github.com/oalieno/CVE-2022-41924
