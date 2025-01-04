@@ -1,7 +1,4 @@
-# CyberSecFolio
-CyberSecFolio hosts an extensive collection of PDF versions of threat and security research blogs, alongside meticulously curated proof-of-concepts for high-profile security vulnerabilities.
-
-## Blogs ##
+# Blogs #
 This directory contains cybersecurity related blogs divided into the following research categories:
 * [Threat](https://github.com/gothburz/CyberSecFolio/tree/main/blogs/threat-research)
   * These blogs focus on campaigns, threat actors, and threat intel/indicators of compromise.

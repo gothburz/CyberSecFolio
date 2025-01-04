@@ -3,4 +3,4 @@ This directory contains threat research focused blogs. These contain blogs that 
 
 ## 2025-01 ##
 [Malicious npm Campaign Targets Ethereum
- Developers with Fake Hardhat Packages](https://github.com/gothburz/CyberSecFolio/blob/main/blogs/threat/2024/01/Malicious-npm-Campaign-Targets-Ethereum-Developers.pdf)
+ Developers with Fake Hardhat Packages](https://github.com/gothburz/CyberSecFolio/blob/main/blogs/threat-research/2024/01/Malicious-npm-Campaign-Targets-Ethereum-Developers.pdf)
