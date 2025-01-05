@@ -25,3 +25,6 @@
 [submodule "exploits/cve/2021/LimeSurvey-RCE"]
 	path = exploits/cve/2021/LimeSurvey-RCE
 	url = https://github.com/D3Ext/LimeSurvey-RCE
+[submodule "exploits/cve/2023/CVE-2023-21839"]
+	path = exploits/cve/2023/CVE-2023-21839
+	url = https://github.com/ASkyeye/CVE-2023-21839
