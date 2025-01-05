@@ -16,3 +16,6 @@
 [submodule "exploits/cve/2018/CVE-2018-14847"]
 	path = exploits/cve/2018/CVE-2018-14847
 	url = https://github.com/jas502n/CVE-2018-14847
+[submodule "exploits/cve/2024/CVE-2022-46169"]
+	path = exploits/cve/2024/CVE-2022-46169
+	url = https://github.com/lof1sec/CVE-2022-46169
