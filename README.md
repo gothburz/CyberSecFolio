@@ -1,6 +1,7 @@
 # CyberSecFolio
-CyberSecFolio hosts an extensive collection of PDF versions of threat and security research blogs, alongside meticulously curated proof-of-concepts for high-profile security vulnerabilities.
 ![cybersecfolio-banner.jpg](cybersecfolio-banner.jpg "cybersecfolio-banner.jpg")
+
+CyberSecFolio hosts an extensive collection of PDF versions of threat and security research blogs, alongside meticulously curated proof-of-concepts for high-profile security vulnerabilities.
 
 ## Blogs ##
 This directory contains cybersecurity related blogs in PDF format. Research blogs are divided into the following categories:
