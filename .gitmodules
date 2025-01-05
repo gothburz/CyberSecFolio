@@ -22,3 +22,6 @@
 [submodule "exploits/cve/2024/CVE-2024-12986"]
 	path = exploits/cve/2024/CVE-2024-12986
 	url = https://github.com/Aether-0/CVE-2024-12986.git
+[submodule "exploits/cve/2021/LimeSurvey-RCE"]
+	path = exploits/cve/2021/LimeSurvey-RCE
+	url = https://github.com/D3Ext/LimeSurvey-RCE
