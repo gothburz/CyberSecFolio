@@ -19,3 +19,6 @@
 [submodule "exploits/cve/2024/CVE-2022-46169"]
 	path = exploits/cve/2024/CVE-2022-46169
 	url = https://github.com/lof1sec/CVE-2022-46169
+[submodule "exploits/cve/2024/CVE-2024-12986"]
+	path = exploits/cve/2024/CVE-2024-12986
+	url = https://github.com/Aether-0/CVE-2024-12986.git
