@@ -13,3 +13,6 @@
 [submodule "exploits/cve/2024/CVE-2024-21182"]
 	path = exploits/cve/2024/CVE-2024-21182
 	url = https://github.com/kursadalsan/CVE-2024-21182
+[submodule "exploits/cve/2018/CVE-2018-14847"]
+	path = exploits/cve/2018/CVE-2018-14847
+	url = https://github.com/jas502n/CVE-2018-14847
