@@ -37,3 +37,6 @@
 [submodule "exploits/cve/2023/CVE-2023-6319/root-my-webos-tv"]
 	path = exploits/cve/2023/CVE-2023-6319/root-my-webos-tv
 	url = https://github.com/illixion/root-my-webos-tv.git
+[submodule "exploits/cve/2024/CVE-2024-1086"]
+	path = exploits/cve/2024/CVE-2024-1086
+	url = https://github.com/Notselwyn/CVE-2024-1086
