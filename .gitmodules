@@ -31,3 +31,6 @@
 [submodule "exploits/cve/2023/CVE-2023-28434/evil_minio"]
 	path = exploits/cve/2023/CVE-2023-28434/evil_minio
 	url = https://github.com/AbelChe/evil_minio.git
+[submodule "exploits/cve/2023/CVE-2023-45866/BlueDucky"]
+	path = exploits/cve/2023/CVE-2023-45866/BlueDucky
+	url = https://github.com/pentestfunctions/BlueDucky
