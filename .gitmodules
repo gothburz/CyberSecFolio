@@ -6,7 +6,7 @@
 	url = https://github.com/SafeBreach-Labs/CVE-2024-49113.git
 [submodule "exploits/cve/2024/--force"]
 	path = exploits/cve/2024/--force
-	url = https://github.com/SafeBreach-Labs/CVE-2024-49113.git
+	url = https://github.com/RandomRobbieBF/CVE-2024-54374.git
 [submodule "exploits/cve/CVE-2024-49113"]
 	path = exploits/cve/CVE-2024-49113
 	url = https://github.com/SafeBreach-Labs/CVE-2024-49113.git
@@ -40,3 +40,12 @@
 [submodule "exploits/cve/2024/CVE-2024-1086"]
 	path = exploits/cve/2024/CVE-2024-1086
 	url = https://github.com/Notselwyn/CVE-2024-1086
+[submodule "exploits/cve/2024/CVE-2024-54374"]
+	path = exploits/cve/2024/CVE-2024-54374
+	url = https://github.com/RandomRobbieBF/CVE-2024-54374.git
+[submodule "exploits/cve/2024/CVE-2024-55972"]
+	path = exploits/cve/2024/CVE-2024-55972
+	url = https://github.com/RandomRobbieBF/CVE-2024-55972.git
+[submodule "exploits/cve/2024/CVE-2024-11423"]
+	path = exploits/cve/2024/CVE-2024-11423
+	url = https://github.com/RandomRobbieBF/CVE-2024-11423.git
