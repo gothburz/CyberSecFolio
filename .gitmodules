@@ -49,3 +49,6 @@
 [submodule "exploits/cve/2024/CVE-2024-11423"]
 	path = exploits/cve/2024/CVE-2024-11423
 	url = https://github.com/RandomRobbieBF/CVE-2024-11423.git
+[submodule "exploits/cve/2024/CVE-2024-12849"]
+	path = exploits/cve/2024/CVE-2024-12849
+	url = https://github.com/RandomRobbieBF/CVE-2024-12849
