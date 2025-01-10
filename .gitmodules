@@ -52,3 +52,6 @@
 [submodule "exploits/cve/2024/CVE-2024-12849"]
 	path = exploits/cve/2024/CVE-2024-12849
 	url = https://github.com/RandomRobbieBF/CVE-2024-12849
+[submodule "exploits/cve/2024/CVE-2024-8743/CVE-2024-8743-PoC"]
+	path = exploits/cve/2024/CVE-2024-8743/CVE-2024-8743-PoC
+	url = https://github.com/siunam321/CVE-2024-8743-PoC.git
